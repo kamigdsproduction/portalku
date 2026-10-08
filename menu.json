@@ -1,0 +1,8 @@
+[
+  {"id":"1","nama":"Home","link":"index.php"},
+  {"id":"2","nama":"Nasional","link":"?kategori=Nasional"},
+  {"id":"3","nama":"Ekonomi","link":"?kategori=Ekonomi"},
+  {"id":"4","nama":"Olahraga","link":"?kategori=Olahraga"},
+  {"id":"5","nama":"Hiburan","link":"?kategori=Hiburan"},
+  {"id":"6","nama":"Kuliner","link":"?kategori=Kuliner"}
+]
